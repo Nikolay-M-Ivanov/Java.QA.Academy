@@ -5,10 +5,10 @@ public class Main {
 
        // checkPeopleRights(20);
 //извикваме метода директно, защото се намира в Main class
-        LectureSwitch.getMonthNumberOfDates(2, 2020);
+      //  LectureSwitch.getMonthNumberOfDates(2, 2020);
 //извикваме метод който е public & static "getMonthNumberOfDates" от клас LectureSwitch
 //ако метода не е static, "LectureSwitch lectureswitch = new LectureSwitch();"
-
+        Homework.biggerOfThree();
         }
     public static void checkPeopleRights(int age){
         boolean isAllowedToDrive = false;
