@@ -5,12 +5,12 @@ import lombok.Setter;
 
 @Setter
 @Getter
-public  class Person {
+public class Person {
     private String name;
     private int age;
     private ContactInfo contactInfo; //HAS - A aggregation / наследява класа за контакт инфо
 
-  //  public abstract void printInfo();
+    //  public abstract void printInfo();
 
    /* public String getName() {
         return name;
