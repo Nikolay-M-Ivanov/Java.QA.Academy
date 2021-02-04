@@ -11,6 +11,6 @@ public class Homework2 {
         }
         // System.out.println(sum);
         int avg = sum / num.length;
-        System.out.println(avg);
+        System.out.println("Average of array is: " + avg);
     }
 }
