@@ -1,4 +1,4 @@
-package com.academy.lecture42.listEx.whileExample;
+package com.academy.lecture42.whileExample;
 
 public class DoWhileEx {
 

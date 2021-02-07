@@ -1,4 +1,4 @@
-package com.academy.lecture42.listEx.arrays;
+package com.academy.lecture42.arrays;
 
 import java.util.Arrays;
 

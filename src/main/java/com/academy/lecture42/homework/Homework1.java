@@ -1,4 +1,4 @@
-package com.academy.lecture42.listEx.homework;
+package com.academy.lecture42.homework;
 
 public class Homework1 {
     public static void main(String[] args) {

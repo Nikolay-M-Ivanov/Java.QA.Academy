@@ -1,4 +1,4 @@
-package com.academy.lecture42.listEx.homework;
+package com.academy.lecture42.homework;
 
 public class FibonachiProgram {
     public static void main(String[] args) {

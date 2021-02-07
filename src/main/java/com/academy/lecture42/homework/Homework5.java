@@ -1,4 +1,4 @@
-package com.academy.lecture42.listEx.homework;
+package com.academy.lecture42.homework;
 
 import java.util.Scanner;
 

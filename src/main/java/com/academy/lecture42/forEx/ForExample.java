@@ -1,4 +1,4 @@
-package com.academy.lecture42.listEx.forEx;
+package com.academy.lecture42.forEx;
 
 public class ForExample {
     public static void main(String[] args) {

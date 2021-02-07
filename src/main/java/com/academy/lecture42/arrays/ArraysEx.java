@@ -1,4 +1,4 @@
-package com.academy.lecture42.listEx.arrays;
+package com.academy.lecture42.arrays;
 
 public class ArraysEx {
     public static void main(String[] args) {
