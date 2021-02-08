@@ -4,12 +4,21 @@ public class Student extends Person {
     private String faculty;
     private int facultyNumber;
 
+    public Student() { //default constructor
+
+    }
+
     @Override
     public String toString() {
         return "Student{" +
                 "faculty='" + faculty + '\'' +
                 ", facultyNumber=" + facultyNumber +
                 '}';
+    }
+
+    public Student(String faculty, int facultyNumber) { //custom constructor
+        this.faculty = faculty;
+        this.facultyNumber = facultyNumber;
     }
 
     public String getFaculty() {
